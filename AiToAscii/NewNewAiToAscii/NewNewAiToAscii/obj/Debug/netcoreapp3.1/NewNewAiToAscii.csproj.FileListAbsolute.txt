@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\AiToAscii\NewNewAiToAscii\NewNewAiToAscii\obj\Debug\netcoreapp3.1\NewNewAiToAscii.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\AiToAscii\NewNewAiToAscii\NewNewAiToAscii\obj\Debug\netcoreapp3.1\NewNewAiToAscii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\AiToAscii\NewNewAiToAscii\NewNewAiToAscii\obj\Debug\netcoreapp3.1\NewNewAiToAscii.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\AiToAscii\NewNewAiToAscii\NewNewAiToAscii\obj\Debug\netcoreapp3.1\NewNewAiToAscii.AssemblyInfo.cs
+C:\Users\Student\Desktop\AiToAscii\NewNewAiToAscii\NewNewAiToAscii\obj\Debug\netcoreapp3.1\NewNewAiToAscii.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\AiToAscii\NewNewAiToAscii\NewNewAiToAscii\obj\Debug\netcoreapp3.1\NewNewAiToAscii.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Desktop\AiToAscii\NewNewAiToAscii\NewNewAiToAscii\obj\Debug\netcoreapp3.1\NewNewAiToAscii.RazorAssemblyInfo.cache
+C:\Users\Student\Desktop\AiToAscii\NewNewAiToAscii\NewNewAiToAscii\obj\Debug\netcoreapp3.1\NewNewAiToAscii.RazorAssemblyInfo.cs
