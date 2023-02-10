@@ -8,6 +8,7 @@ namespace NewNewAiToAscii.Services
 {
     public interface IAsciiService
     {
-        Ascii GetAscii();
+        // for capturing the entire object from the API
+        string GetAscii();
     }
 }

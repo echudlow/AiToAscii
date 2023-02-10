@@ -7,6 +7,7 @@ namespace NewNewAiToAscii.Services
 {
     public interface IUpSplash
     {
+        // for capturing the object itself
         AiPic GetAiPic();
     }
 }
